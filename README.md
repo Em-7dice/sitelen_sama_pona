@@ -30,7 +30,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ꕣ |apeja
 ᐲ |awen
 》 |e
-🞣 |en
+＋ |en
 𑣥 |esun
 ○ |ijo
 ᴖ |ike
@@ -50,7 +50,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ഫ |kijetesantakalu
 ✷ |kiki
 ద |kili 
-🞰 |kin
+∗ |kin
 ⸓ |kipisi
 ♢ |kiwen
 𔓗 |ko

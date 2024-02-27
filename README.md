@@ -171,7 +171,9 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 📉 |yupekosi (i have  nothing but love and respect for the folks who make and use sitelen Emosi)
 
 ---
+
 \* If you see a question mark in a box, this is the right symbol. I'm not doing a regular question mark for seme because it might be confusing.
+
 ---
 
 # Usage

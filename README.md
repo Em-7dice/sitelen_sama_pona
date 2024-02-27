@@ -170,8 +170,6 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ⚠| wuwojiti
 📉 |yupekosi (i have  nothing but love and respect for the folks who make and use sitelen Emosi)
 
----
-
 \* If you see a question mark in a box, this is the right symbol. I'm not doing a regular question mark for seme because it might be confusing.
 
 ---
@@ -180,15 +178,25 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 #### Names
 
 Names are to follow a head noun as usual, and instead of a cartouche, use the following parentheses:
+
 ⦅
+
 ⦆
+
 If you prefer to use sitelen kalama to write names, use the mid dot for the mora, and this colon for the whole word:
+
 ·
+
 ⁚
+
 You can use the regular period and the regular colon if you like, I'm not your mom, but these will appear more promanently on the page.
 
 #### Spaces
 
-It's up to you wether or not you place spaces in between glyphs. It saves a lot of space not to, but I prefer it for 2 reasons:
+It's up to you wether or not you place spaces in between glyphs, and how often to do that. It saves a lot of space not to, but I prefer it for 2 reasons:
 - using a logography over an alphabet already saves you tons of space
 - it's a lot more legible, as these glyphs come from vastly different places, and were never meant to be shown next to each other in this way.
+
+---
+
+Thanks again to u/thesegoupto11 for all of your hard work figuring all of this stuff out. I thought I could cheat the system using diacritics, but turns out a lot of platforms don't know what to do with bizarre diacritics on weird characters. ᑲ ᴗ ⤺ ᕅ ᑲ!

@@ -38,7 +38,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ⟓ |insa 
 𖡎 |jaki
 𐙞 |jan
-ᚬ |jasima
+≉ |jasima
 𖡪 |jelo
 ᕦ |jo
 ᘞ |kala

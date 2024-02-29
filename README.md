@@ -20,7 +20,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ꘖ ᐀ ᴗ |sitelen Lasina
 :-:|:-
 á |a
-⊜ |akesi 
+𖠃 |akesi 
 ╳ |ala
 ⭄ |alasa
 ∞ |ale / ali
@@ -44,20 +44,20 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ᘞ |kala
 ᗢ |kalama
 ᐼ |kama
-𖩧 |kasi 
+𖧧 |kasi 
 K |ken 
 𖣝 |kepeken
 ഫ |kijetesantakalu
 ✷ |kiki
 ద |kili 
-∗ |kin
+⤓ |kin
 ⸓ |kipisi
 ♢ |kiwen
-𔓗 |ko
+𖧷 |ko
 ⦱ | kokosila
 𓆊 |kokosila (alt. too fun to let go.) 
 𐘽 |kon
-⍓ |ku
+🄺 |ku
 🜁 |kule
 𐬿 |kulupu
 ᕭ |kute
@@ -68,13 +68,13 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𑴪 |lawa
 ⧈ |leko 
 𐘮 |len 
-𐆖 |lete
+＊ |lete
 〉 |li
 ᘁ |lili
 𐅼 |linja
 क |linluwi
 □ |lipu
-⊼ |loje
+𐃯 |loje
 ∸ |lon
 ᕆ |luka
 ᯣ |lukin
@@ -88,21 +88,21 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ᑭ |mi
 ⍜ |mije
 ϴ |misikeke
-ᖋ |moku
+𐚩 |moku
 〷 |moli
 ⸡ |monsi
 ෴ |monsuta 
-𔕸 |mu
+𖠐 |mu
 ☽ |mun
 ☋ |musi
-𓏼 |mute
+⫴ |mute
 ń |n
 𖠲 |namako
 ⌗ |nanpa
 ౷ |nasa
 ᛣ |nasin
 ⋂ |nena
-ↆ |ni
+↓ |ni
 ᯆ |nimi
 ⏛ |nimisin
 ᕊ |noka
@@ -119,17 +119,17 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 𐘃 |pan
 ᣐ |pana
 └ |pi
-𖹭 |pilin
+♡ |pilin
 ⨻ |pimeja
 𐊈 |pini
-𐀳 |pipi
+⯒ |pipi
 ᒳ |poka
 ⊔ |poki
 ᴗ |pona
 ⨱ |powe
-⌻ |pu
+🄿 |pu
 ᐀ |sama
-ᗐ |seli
+🗤 |seli
 ℿ |selo
 ⍰ |seme*
 ⫨ |sewi
@@ -143,7 +143,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ⍾ |soko
 ⏍ |sona
 ଲ |soweli
-⍃ |su
+🅂 |su
 ⋎ |suli
 ✢ |suno
 𐅺 |supa
@@ -160,9 +160,9 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 Ꮬ |unpa
 ᘕ |usawi
 ᗜ |uta
-⚔ |utala
+ꤸ |utala
 𐙁 |walo
-𝟣 |wan
+↿ |wan
 ᔨ |waso
 ⊍ |wawa
 ∷ |weka

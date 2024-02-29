@@ -1,9 +1,9 @@
-# sitelen sama pona
+# sitelen Juniko pi jan Emeli
 #### A logography for Toki Pona that mimics sitelen pona, but uses only characters already in Unicode.
 
 This is the serious verson of my last project, [sitelen Keme](https://github.com/Em-7dice/stelen-Keme). I genuinely have a need for sitelen pona on my phone and laptop, but alas, it's not part of unicode yet. Hopefully this will change soon. In the meantime, however, we have to make do with what we have. 
 
-Many if not most of the glyphs here are from [this](https://www.reddit.com/r/tokipona/comments/14krrbd/sitelen_pona_in_unicode_all_words/) Reddit post. I have been able to find some more accurate glyphs and have updated some of them (for example, their glyph for ku looks a lot like su, which they couldn't have possibly known 8 months ago.) I may go back and make this list more compatible with theirs; they put a LOT more effort into making sure the list was functional and pretty. I was like halfway through this project when i found the post, so really this whole thing is the result of the sunk cost fallacy. They also didn't give this version of the script a name, which I'm doing so that people can search for this solution easier.
+Many if not most of the glyphs here are from [this](https://www.reddit.com/r/tokipona/comments/14krrbd/sitelen_pona_in_unicode_all_words/) Reddit post. I have been able to find some more accurate glyphs and have updated some of them (for example, their glyph for ku looks a lot like su, which they couldn't have possibly known 8 months ago.) I may go back and make this list more compatible with theirs; they put a LOT more effort into making sure the list was functional and pretty. I was like halfway through this project when i found the post, so really this whole thing is the result of the sunk cost fallacy. I'm also going to link several other scripts that do the same thing [here](https://sona.pona.la/wiki/sitelen_Juniko)
 
 Some of these glyphs were hard to let go of, because unironically, sitelen Keme just has better symbols in some cases. Like, kama and tawa are literally based off of the hieroglyphs. the sitelen Keme for kute is actually an ear. etc.
 
@@ -122,14 +122,14 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ♡ |pilin
 ⨻ |pimeja
 𐊈 |pini
-⯒ |pipi
+𐀳 |pipi
 ᒳ |poka
 ⊔ |poki
 ᴗ |pona
 ⨱ |powe
 🄿 |pu
 ᐀ |sama
-🗤 |seli
+ᗐ |seli
 ℿ |selo
 ⍰ |seme*
 ⫨ |sewi

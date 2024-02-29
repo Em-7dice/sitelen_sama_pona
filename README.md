@@ -197,6 +197,13 @@ It's up to you wether or not you place spaces in between glyphs, and how often t
 - using a logography over an alphabet already saves you tons of space
 - it's a lot more legible, as these glyphs come from vastly different places, and were never meant to be shown next to each other in this way.
 
+#### Incompatibility
+I am sorry to say that there may be some devices for which not all characters will work. There are other sitelen Juniko out there linked at the top of this page. That or you could give sitelen Keme a shot!
+
 ---
 
-Thanks again to u/thesegoupto11 for all of your hard work figuring all of this stuff out. I thought I could cheat the system using diacritics, but turns out a lot of platforms don't know what to do with bizarre diacritics on weird characters. ᑲ ᴗ ⤺ ᕅ ᑲ!
+Thanks again to u/thesegoupto11 for all of your hard work figuring all of this stuff out. I thought I could cheat the system using diacritics, but turns out a lot of platforms don't know what to do with bizarre diacritics on weird characters. 
+
+Thanks also to the group at the ma pona pi toki pona discord server and on Mastodon who helped me troubleshoot device compatibility. 
+
+ᑲ ᴗ ⤺ ᕅ ᑲ!

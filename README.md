@@ -109,7 +109,7 @@ These cover all the words I use, plus some. I'm not that familiar with almost an
 ó |o
 ☑ |oke
 ⩹ |oko 
-❣ |olin
+❦ |olin
 ᘠ |omekapo
 ᓄ |ona
 𝈣 |open
